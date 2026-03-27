@@ -7,7 +7,4 @@ node_modules/
 /playwright/.cache/
 /playwright/.auth/
     .github/
-        .gitignore
-        package-lock.json
-        package.json
-        playwright.config.js
+        /.gitignore
